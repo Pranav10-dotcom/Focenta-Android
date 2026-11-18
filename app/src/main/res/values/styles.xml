@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Focenta" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F6FAF0</item>
+        <item name="android:navigationBarColor">#F6FAF0</item>
+    </style>
+</resources>

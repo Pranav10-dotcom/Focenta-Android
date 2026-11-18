@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Focenta</string>
+
+    <string name="accessibility_description">
+        Focenta uses accessibility events to detect scrolling in supported short-video apps and provide a personal digital-wellbeing counter.
+    </string>
+
+</resources>
